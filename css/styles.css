@@ -42,7 +42,7 @@ p {
   color: var(--standard-text-color);
 }
 
-/*form {
+form {
   margin: 2em auto;
   text-align: center;
   width: 50%;
@@ -50,7 +50,7 @@ p {
   flex-direction: column;
 }
 
-label {
+/*label {
   color: #111;
   margin: 10px 0 5px 0;
 }
