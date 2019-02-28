@@ -27,9 +27,6 @@ body {
   height: 1.5em;
 }
 
-/*
-
-
 .container {
   width: 60%;
   margin: 0 auto;
@@ -37,7 +34,7 @@ body {
   background-color: var(--primary-color);
 }
 
-h1{
+/*h1{
   color: var(--header-text-color);
 }
 
