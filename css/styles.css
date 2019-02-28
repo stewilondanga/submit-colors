@@ -34,11 +34,11 @@ body {
   background-color: var(--primary-color);
 }
 
-/*h1{
+h1 {
   color: var(--header-text-color);
 }
 
-p {
+/*p {
   color: var(--standard-text-color);
 }
 
