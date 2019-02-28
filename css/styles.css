@@ -1,4 +1,4 @@
-body {
+/*body {
   text-align: center;
   font-family: courier;
   background-image: url("../assets/image.jpeg");
@@ -19,6 +19,63 @@ body {
 
 .my_social a img {
   height: 1.5em;
+}
+
+@import url("https://fonts.googleapis.com/css?family=Raleway:400,400i,700");
+
+:root {
+  --header-text-color: #111111;
+  --standard-text-color: #666666;
+  --primary-color: #cccccc;
+  --background-color: #dddddd;
+}
+
+body {
+  background-color: var(--background-color);
+  font-family: "Raleway", sans-seriff;
+}
+
+.container {
+  width: 60%;
+  margin: 0 auto;
+  padding: 10px;
+  background-color: var(--primary-color);
+}
+
+h1{
+  color: var(--header-text-color);
+}
+
+p {
+  color: var(--standard-text-color);
+}
+
+form {
+  margin: 2em auto;
+  text-align: center;
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+}
+
+label {
+  color: #111;
+  margin: 10px 0 5px 0;
+}
+
+input {
+  width: 100px;
+  padding: 10px;
+  margin: 0 auto;
+}
+
+button {
+  width: 100px;
+  padding: 10px;
+  margin: 2em auto;
+  background-color: var(--primary-color);
+  color: var(--standard-text-color);
+  border: 0;
 }
 
 .containers {
