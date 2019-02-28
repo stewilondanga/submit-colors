@@ -1,4 +1,12 @@
 @import url("https://fonts.googleapis.com/css?family=Raleway:400,400i,700");
+
+:root {
+  --header-text-color: #111111;
+  --standard-text-color: #666666;
+  --primary-color: #cccccc;
+  --background-color: #dddddd;
+}
+
 /*body {
   text-align: center;
   font-family: courier;
@@ -23,12 +31,6 @@
 }
 
 
-:root {
-  --header-text-color: #111111;
-  --standard-text-color: #666666;
-  --primary-color: #cccccc;
-  --background-color: #dddddd;
-}
 
 body {
   background-color: var(--background-color);
