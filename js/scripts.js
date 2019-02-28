@@ -8,8 +8,8 @@ var navigate = (function() {
 })();
 
 (function() {
-    /*  const themeform = document.getElementById("themeform");
-      themeform.onSubmit = (e) => {
+    const themeform = document.getElementById("themeform");
+    /*  themeform.onSubmit = (e) => {
         e.preventDefault();
         const headerTextColor = document.getElementById('header-text-color').value;
         const stdTextColor = document.getElementById('standard-text-color').value;
