@@ -38,11 +38,11 @@ h1 {
   color: var(--header-text-color);
 }
 
-/*p {
+p {
   color: var(--standard-text-color);
 }
 
-form {
+/*form {
   margin: 2em auto;
   text-align: center;
   width: 50%;
