@@ -22,4 +22,3 @@ var navigate = (function() {
     document.documentElement.style.setProperty('--background-color', backgroundColor);
   };
 })();
-/*
