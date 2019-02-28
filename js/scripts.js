@@ -18,7 +18,7 @@ var navigate = (function() {
 
         document.documentElement.style.setProperty('--header-text-color', headerTextColor);
         document.documentElement.style.setProperty('--standard-text-color', stdTextColor);
-        /*                        document.documentElement.style.setProperty('--primary-color', primaryColor);
-                                document.documentElement.style.setProperty('--background-color', backgroundColor);
+        document.documentElement.style.setProperty('--primary-color', primaryColor);
+        /*                        document.documentElement.style.setProperty('--background-color', backgroundColor);
                               };
                             })();
